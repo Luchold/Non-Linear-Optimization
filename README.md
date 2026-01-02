@@ -1,4 +1,4 @@
-# Cutting of Circular Disks from a Rectangular Steel Plate
+# Cutting of Circular Disks from a Rectangular Steel Plate- Constrained NLP
 
 ##  Project Description
 
