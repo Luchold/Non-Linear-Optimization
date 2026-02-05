@@ -95,6 +95,3 @@ Run all cells to:<br/>
 ![4 disks](image/disk4.png)
 
 
-## Author
-
-**Luc Agbognisso, MSc student in Mathematical Sciences at AIMS Ghana.**
